@@ -1,1 +1,2 @@
 # arm-assembly
+assembly of the arm in solidworks required transforming the mesh graphic given by a format of (stl) into a a solid part to be able to configure and arrange the 4 different parts in the assembly  changing the 3d graphic from mesh bodies to a solid parts so we can move it in the assembly using SOLIDWORKS  then fixing the different component to each other I scaled the gripper to match the holes in the arm since the part obtained were not to scale (gripper) after finishing the assembly I recreate as a single part  (STL) file for 3D printing 
